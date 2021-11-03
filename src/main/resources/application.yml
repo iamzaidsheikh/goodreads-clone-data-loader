@@ -11,11 +11,15 @@ spring:
                 connect-timeout: 10s
                 init-query-timeout: 10s
 
+datadump.location:
+    author: <author-file-location>
+    works: <works-file-location>
+
 datastax.astra:
     secure-connect-bundle: secure-connect.zip
 
 astra.db:
-    id: <db-id>
+    id: <db-id> 
     region: <db-region>
     keyspace: <keyspace-name>
     application.token: <token>
