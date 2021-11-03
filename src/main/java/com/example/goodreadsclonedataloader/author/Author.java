@@ -1,4 +1,4 @@
-package author;
+package com.example.goodreadsclonedataloader.author;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.cassandra.core.cql.PrimaryKeyType;

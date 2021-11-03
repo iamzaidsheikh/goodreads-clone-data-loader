@@ -1,4 +1,4 @@
-package connection;
+package com.example.goodreadsclonedataloader.connection;
 
 import java.io.File;
 
